@@ -43,7 +43,7 @@ El objetivo fue **centralizar información operativa**, optimizando la visibilid
 - Integración con fuentes de datos y APIs internas mediante **scripts en Bash y Python**.  
 - Despliegue en entorno **Dockerizado**, asegurando portabilidad y consistencia.
 
-**Stack:** Python · Bash · Docker · Linux · API REST · Grafana
+**Stack:** Python · Bash · Docker · Linux · API REST
 
 ---
 
@@ -58,7 +58,7 @@ Esta herramienta automatiza la **generación de comandos SSH**, estandariza la c
   estandarizando procesos y reduciendo errores humanos.
 - Elogiada por los clientes como una herramienta *“muy eficiente y optimizadora”*.
 
-**Stack:** Python · Flet · Linux · SSH · Automatización de procesos · Virtualización · ITSM
+**Stack:** Python · Flet · Linux · SSH · Automatización de procesos · Virtualización
 
 ---
 
