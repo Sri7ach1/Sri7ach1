@@ -85,7 +85,7 @@ Nació como un proyecto fotográfico personal, pero con el tiempo se convirtió 
 
 ## 📫 Conecta conmigo
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amirarbal/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amirabal/)
 [![Web](https://img.shields.io/badge/Web-mirabalphoto.es-2E2E2E?logo=Firefox-Browser&logoColor=white)](https://mirabalphoto.es)
 [![GitHub](https://img.shields.io/badge/GitHub-Sri7ach1-181717?logo=github&logoColor=white)](https://github.com/Sri7ach1)
 [![Location](https://img.shields.io/badge/📍-Las%20Palmas%20de%20Gran%20Canaria-blue)]()
