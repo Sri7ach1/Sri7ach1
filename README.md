@@ -33,7 +33,7 @@ Apasionado de la tecnología, la fotografía y los proyectos donde la lógica y 
 > pero sí detallar su propósito y las tecnologías empleadas.
 
 ### 📊 Dashboard interno de operaciones IT
-**Jun. 2024 – Actualidad**
+**Sept. 2025 – Actualidad**
 
 📈 Desarrollo de un **dashboard interno** para la monitorización de tareas y métricas de rendimiento de sistemas virtualizados.  
 El objetivo fue **centralizar información operativa**, optimizando la visibilidad de incidencias y los tiempos de respuesta.
