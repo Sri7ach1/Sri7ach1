@@ -23,6 +23,7 @@ Apasionado de la tecnología, la fotografía y los proyectos donde la lógica y 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-121011?logo=gnu-bash&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
 
 ---
@@ -56,13 +57,25 @@ Esta herramienta automatiza la **generación de comandos SSH**, estandariza la c
 **Impacto:**
 - Adoptada por más del **70% del equipo técnico** y **2 clientes**,  
   estandarizando procesos y reduciendo errores humanos.
-- Elogiada por los clientes como una herramienta *“muy eficiente y optimizadora”*.
+- Elogiada por los clientes como una herramienta *"muy eficiente y optimizadora"*.
 
 **Stack:** Python · Flet · Linux · SSH · Automatización de procesos · Virtualización
 
 ---
 
 ## 🔧 Proyectos personales destacados
+
+### 🧾 [Involtrak](https://github.com/Sri7ach1/involtrak)
+Sistema de gestión económica desarrollado en **PHP con patrón MVC**, orientado a autónomos y pequeñas empresas.  
+Permite gestionar **ingresos, gastos, clientes y facturas** desde un panel centralizado con generación de PDFs.
+
+Desarrollado con foco en **seguridad**: prepared statements, protección CSRF, rate limiting en base de datos, cifrado AES-256-GCM, headers HTTP y gestión segura de sesiones. Toda la configuración sensible se gestiona mediante variables de entorno sin ningún valor hardcodeado en el código.
+
+Incluye instalador automático para producción en Ubuntu/Debian con Apache, MariaDB y SSL via Let's Encrypt.
+
+**Stack:** PHP · MariaDB · Apache · AdminLTE · Bootstrap 4 · Docker-ready
+
+---
 
 ### 🎲 [RolSessions](https://github.com/Sri7ach1/RolSessions)
 Bot para Discord que gestiona sesiones de rol de forma sencilla.  
@@ -92,7 +105,7 @@ Nació como un proyecto fotográfico personal, pero con el tiempo se convirtió 
 
 ---
 
-> 💬 *“La automatización no solo ahorra tiempo, también mejora la calidad de lo que hacemos.”*  
+> 💬 *"La automatización no solo ahorra tiempo, también mejora la calidad de lo que hacemos."*  
 > — Ari Mirabal
 
 ---
