@@ -24,6 +24,8 @@ Apasionado de la tecnología, la fotografía y los proyectos donde la lógica y 
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-121011?logo=gnu-bash&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![Tampermonkey](https://img.shields.io/badge/Tampermonkey-00485B?logo=tampermonkey&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
 
 ---
@@ -80,6 +82,14 @@ Incluye instalador automático para producción en Ubuntu/Debian con Apache, Mar
 ### 🎲 [RolSessions](https://github.com/Sri7ach1/RolSessions)
 Bot para Discord que gestiona sesiones de rol de forma sencilla.  
 Desarrollado en **Python**, con enfoque en usabilidad y persistencia de datos.  
+
+### 🚀 [AstroGameScripts](https://github.com/Sri7ach1/AstroGameScripts)
+Colección de userscripts (Tampermonkey/Violentmonkey) para **Astrogame**, un juego de navegador estilo OGame.  
+Cada script es independiente, vive en su propia carpeta y se activa solo en las páginas del juego que le corresponden.
+
+Incluye 5 scripts: cálculo de botín de expediciones, aviso de expediciones sin volar, ROI de mejoras de minas/investigación, suma de producción de recursos de todos los planetas, y estadísticas de puntos de alianza en formato Markdown para Discord.
+
+**Stack:** JavaScript · Tampermonkey/Violentmonkey · Userscripts
 
 ### 🛰️ [OGame – Enviar recursos al planeta principal](https://github.com/Sri7ach1/OGame-Enviar-recursos-al-planeta-principal)
 Script en **JavaScript** para automatizar tareas repetitivas dentro del navegador en OGame.
