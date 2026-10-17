@@ -8,7 +8,7 @@ Apasionado de la tecnología, la fotografía y los proyectos donde la lógica y 
 ## 🧠 Sobre mí
 
 - 💻 Actualmente trabajo en el ámbito de la **administración de sistemas virtualizados con VMWare**, manteniendo entornos de producción estables y seguros.  
-- ⚙️ Especializado en **automatización con Ansible** y **contenedorización con Docker** además de la pasión por administrar entornos **LINUX**.  
+- ⚙️ Especializado en **automatización con Ansible** y **contenedorización con Docker**, además de la pasión por administrar entornos **LINUX**.  
 - 🧩 Experiencia en **monitorización, scripting en Bash y Python**, y despliegue de servicios en servidores físicos y virtualizados.  
 - 💬 También desarrollo **bots para Telegram y Discord**, así como herramientas internas que facilitan el trabajo del día a día.  
 - 🚀 En constante aprendizaje: actualmente cursando **Desarrollo de Aplicaciones Web (DAW)** en el I.E.S. El Rincón.
@@ -57,8 +57,7 @@ El objetivo fue **centralizar información operativa**, optimizando la visibilid
 Esta herramienta automatiza la **generación de comandos SSH**, estandariza la comunicación en tickets y mejora la trazabilidad de incidencias.
 
 **Impacto:**
-- Adoptada por más del **70% del equipo técnico** y **2 clientes**,  
-  estandarizando procesos y reduciendo errores humanos.
+- Adoptada por más del **70% del equipo técnico** y **2 clientes**, estandarizando procesos y reduciendo errores humanos.
 - Elogiada por los clientes como una herramienta *"muy eficiente y optimizadora"*.
 
 **Stack:** Python · Flet · Linux · SSH · Automatización de procesos · Virtualización
@@ -66,6 +65,34 @@ Esta herramienta automatiza la **generación de comandos SSH**, estandariza la c
 ---
 
 ## 🔧 Proyectos personales destacados
+
+### 💿 [CD5 — Native Audio CD Player for PlayStation 5](https://github.com/Sri7ach1/CD5)
+
+[![Release](https://img.shields.io/github/v/release/Sri7ach1/CD5?label=Release&logo=github&color=974FE0)](https://github.com/Sri7ach1/CD5/releases/latest)
+[![Licencia GPLv3](https://img.shields.io/badge/Licencia-GPL--3.0--or--later-blue)](https://github.com/Sri7ach1/CD5/blob/main/LICENSE)
+[![Descargar CD5](https://img.shields.io/badge/Descargar-CD5.ffpfsc-974FE0?logo=playstation&logoColor=white)](https://github.com/Sri7ach1/CD5/releases/latest)
+
+🎵 **CD5** es un reproductor de **CDs de audio físicos para PlayStation 5**, desarrollado como aplicación homebrew nativa. Nació con el objetivo de devolver a la consola la posibilidad de escuchar música desde una unidad óptica USB, combinando la reproducción CDDA con una interfaz moderna y servicios de información musical.
+
+**Funcionalidades principales:**
+- 💿 Lectura y reproducción de Audio CD mediante unidad óptica USB, con conversión de audio de **44,1 kHz a 48 kHz**.
+- 🎮 Controles de reproducción mediante **DualSense**: reproducir, pausar, detener y cambiar de pista.
+- 🔎 Identificación de discos, álbumes, artistas y canciones a través de **MusicBrainz**.
+- 🖼️ Descarga de portadas desde **Cover Art Archive**.
+- 🎤 Letras sincronizadas y efecto karaoke mediante **LRCLIB** (cuando están disponibles).
+- ⚡ Interfaz de tres columnas con renderizado orientado a **60 FPS**.
+- 🔄 Detección de expulsión y reinserción del disco sin reiniciar la aplicación.
+- 🖥️ Uso autónomo en PS5, sin necesidad de mantener un PC conectado durante la reproducción habitual.
+
+**Configuración verificada:** PS5 Slim · **Firmware 13.60** · Jailbreak **Relapse** · Unidad **LiteON eBAU102-21**. La compatibilidad con otras configuraciones está pendiente de verificación.
+
+**Versión publicada:** `v0.9.0-beta` · **Licencia:** GPL-3.0-or-later · **Código abierto:** se aceptan forks, mejoras y pull requests.
+
+Desarrollado por **Sri7ach1**, tomando como base técnica y referencia el proyecto [**PS5SX2** de Swordpdf y sus colaboradores](https://github.com/Swordpdf/PS5SX2), con reconocimiento de sus respectivas licencias y autorías.
+
+➡️ **[Repositorio de CD5](https://github.com/Sri7ach1/CD5)** · **[Última release y descarga](https://github.com/Sri7ach1/CD5/releases/latest)**
+
+---
 
 ### 🧾 [Involtrak](https://github.com/Sri7ach1/involtrak)
 Sistema de gestión económica desarrollado en **PHP con patrón MVC**, orientado a autónomos y pequeñas empresas.  
